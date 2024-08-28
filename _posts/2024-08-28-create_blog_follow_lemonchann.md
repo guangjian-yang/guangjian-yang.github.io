@@ -5,7 +5,6 @@ date: 2024-08-28
 tags: [geek]
 comments: true 
 author: deathwhispers
-toc: true
 ---
 
 作为一个懒散的程序员，这么多年了，从来不写博客，也没在社交媒体上输出文章之类的。
@@ -19,9 +18,9 @@ toc: true
 
 通过 [lemonchann](https://github.com/lemonchann/lemonchann.github.io) 的个人博客模板直接生成，按照教程一步步修改个人信息和博客样式。
 
-[github主页]( [lemonchann](https://github.com/lemonchann))
+[github主页](https://github.com/lemonchann)
 
-[教程直达]( [可能是最全面的github pages搭建个人博客教程](https://lemonchann.github.io/create_blog_with_github_pages/))
+[教程直达](https://lemonchann.github.io/create_blog_with_github_pages/)
 
 ## 致谢
 
