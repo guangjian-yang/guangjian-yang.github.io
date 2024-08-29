@@ -12,9 +12,10 @@ description: " 个人学习 | 日常记录 | 留档 | "
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/deathwhispers/deathwhispers.github.io/main/images/%E5%A4%B4%E5%83%8F.png
+avatar: ./images/%E5%A4%B4%E5%83%8F.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/deathwhispers/deathwhispers.github.io/main/images/favicon.ico
+favicon: ./images/favicon.ico
+#favicon: https://raw.githubusercontent.com/deathwhispers/deathwhispers.github.io/main/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -35,24 +36,24 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 # Includes an icon in the footer for each username you enter
+# 链接仅需要填写 username 即可，网站地址在 svg-icons.html 中已经定义了
 footer-links:
-  #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: none
+  zhihu:
   email: guangjian.yang@qq.com
-  facebook: none
+  facebook:
   flickr:
   github: deathwhispers
   googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram: none
-  linkedin: https://www.linkedin.com/in/%E5%85%89%E5%89%91-%E6%9D%A8-375268270/
+  instagram:
+  linkedin: whisper-death-375268270
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   #twitter: frommidworld
-  youtube: none
+  youtube:
 
 # Text under the icons in footer
 footer-text:
