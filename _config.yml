@@ -11,10 +11,10 @@ description: "个人学习 | 日常记录 | 留档"
 # Flags below are optional
 #
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic) 头像.png
-avatar: https://github.com/deathwhispers/deathwhispers.github.io/blob/main/images/%E5%A4%B4%E5%83%8F.png
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/deathwhispers/deathwhispers.github.io/blob/main/images/favicon.ico
+favicon: /images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete

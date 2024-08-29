@@ -14,6 +14,9 @@ author: deathwhispers
 
 脚本用法：`chmod 755 redis-install.sh && sh redis-install.sh 5.x.x` （后面跟的是你需要的版本号，需要什么版本就写什么版本）
 
+
+<!-- more -->
+
 ```shell
 #! /usr/bin/bash
 ##redis任何版本全程自动化源码编译安装
