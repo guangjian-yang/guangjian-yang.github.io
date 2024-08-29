@@ -8,8 +8,8 @@ permalink: /about/
 
 你好，我是一个默默无闻的代码搬运工。
 
-![图片](https://github.com/deathwhispers/deathwhispers.github.io/blob/main/images/%E5%A4%B4%E5%83%8F.png)
-
+[comment]: <> (![图片]&#40;https://raw.githubusercontent.com/deathwhispers/deathwhispers.github.io/main/images/%E5%A4%B4%E5%83%8F.png&#41;)
+![图片](./images/头像.png)
 
 ## 版权声明
 
