@@ -1,4 +1,16 @@
-# 一键自动部署redis
+---
+layout: post
+title: "一键自动部署redis（转）"
+date: 2024-08-29
+tags: [shell]
+comments: true
+author: deathwhispers
+---
+
+## 前言
+本文的脚本是之前从某个公众号上看到的（具体的已经忘了...），若有原帖链接可联系我补上
+
+## 脚本说明
 
 脚本用法：`chmod 755 redis-install.sh && sh redis-install.sh 5.x.x` （后面跟的是你需要的版本号，需要什么版本就写什么版本）
 
@@ -106,3 +118,5 @@ source /etc/profile
 netstat -tanp|grep redis
 ```
 
+# 致谢
+虽然已经忘了出处，但还是对原作者的分享表示感谢，很多脚本留个记录作为参考，在找不到的时候还是可以省去一些麻烦。
