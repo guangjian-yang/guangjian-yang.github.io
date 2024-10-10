@@ -2,7 +2,7 @@
 layout: post
 title: "记录一下装修的过程"
 date: 2024-09-02
-tags: [geek]
+tags: [life]
 comments: true
 author: deathwhispers
 ---
